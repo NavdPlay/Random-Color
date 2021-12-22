@@ -22,6 +22,7 @@ html * {
 	padding: 10px 15px;
 	border-radius: 25px;
 	transition: 0.3s;
+	cursor: pointer;
 }
 
 .color-hex:hover {
